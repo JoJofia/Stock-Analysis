@@ -8,23 +8,23 @@
 ## Difference bewteen orginal and refactored script
  In the refactor, there are no addition code assign for the script. We use the same code from the Marco year value analysis. Please see the different show up on below: 
  
-![OrginalCode](Original_Code.png)
+![OrginalCode](https://github.com/JoJofia/Stock-Analysis/blob/83a89df743dd3f04e62f0ef1b0b6a60ca8a997b2/Resources/Orginial_Code.png)
 
-![Refactored Code](VBA_Refactored_Code.png)
+![Refactored Code](https://github.com/JoJofia/Stock-Analysis/blob/83a89df743dd3f04e62f0ef1b0b6a60ca8a997b2/Resources/VBA_Refactored_Code.png)
 
 In the refactored script, the 'tickerIndex' variable assign to the output arrays and redimsion the frame of script.
 
 ### The run times for original scripts for 2017 and 2018 as below:
 
-![2017 Originial Run Time](AllstockAnalysis_2017.png)
+![2017 Originial Run Time](https://github.com/JoJofia/Stock-Analysis/blob/83a89df743dd3f04e62f0ef1b0b6a60ca8a997b2/Resources/AllstockAnalysis_2017.png)
 
-![2018 Originial Run Time](AllstockAnalysis_2018.png)
+![2018 Originial Run Time](https://github.com/JoJofia/Stock-Analysis/blob/83a89df743dd3f04e62f0ef1b0b6a60ca8a997b2/Resources/AllstockAnalysis_2018.png)
 
 ### The run times for refactored scripts for 2017 and 2018 as below:
 
-![2017 Analysis Run Time](VBA_Challege_2017_Output.png)
+![2017 Analysis Run Time](https://github.com/JoJofia/Stock-Analysis/blob/83a89df743dd3f04e62f0ef1b0b6a60ca8a997b2/Resources/VBA_Challege_2017_Output.png)
 
-![2018 Analysis Run Time](VBA_Challege_2018_Output.png)
+![2018 Analysis Run Time](https://github.com/JoJofia/Stock-Analysis/blob/83a89df743dd3f04e62f0ef1b0b6a60ca8a997b2/Resources/VBA_Challege_2018_Output.png)
 
 Comparate the speed from the picture, we can find out the refactored code runs 0.7 ~ 0.8 fater than the original code/
 
